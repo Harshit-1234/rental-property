@@ -1,0 +1,1 @@
+export default function Featured() { return <section>Featured Listings</section>; }
